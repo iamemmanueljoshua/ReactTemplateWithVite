@@ -1,5 +1,4 @@
 import { Outlet, Link, useLocation } from "react-router-dom";
-import HeroPhoto from "../assets/pictures/4.jpg";
 
 const Layout = () => {
   const location = useLocation();
